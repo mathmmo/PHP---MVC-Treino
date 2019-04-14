@@ -1,0 +1,9 @@
+.form-mid{
+	padding: 10px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+.login-warning{
+	color: gray;
+}
