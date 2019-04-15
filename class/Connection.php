@@ -14,7 +14,7 @@ class Connection{
 		$this->user = "root";
 		$this->password = "";
 	}
-
+	//Connection method
 	public function connect(){
 		try {
 			if(is_null(self::$pdo)){
